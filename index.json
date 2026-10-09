@@ -1,0 +1,11 @@
+{
+  "org": "modelcontextprotocol",
+  "repo": "experimental-ext-tool-annotations",
+  "versions": [
+    {
+      "commit": "fecace78a9552f70ba735d750fc3c4b190e20429",
+      "tag": "main",
+      "parsed_at": "2026-10-09T07:05:51.403026+00:00"
+    }
+  ]
+}
