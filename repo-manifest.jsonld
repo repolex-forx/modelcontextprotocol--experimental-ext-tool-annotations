@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modelcontextprotocol/experimental-ext-tool-annotations/commit/fecace78a9552f70ba735d750fc3c4b190e20429",
       "git:hexsha": "fecace78a9552f70ba735d750fc3c4b190e20429",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
